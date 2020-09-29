@@ -1,7 +1,7 @@
 # Site settings
 title: Jasber Blog
 SEOTitle: Jasber 的博客 | Jasber Blog
-header-img: img/home-bg-before.jpg
+header-img: img/home-bg.jpg
 email: markgbug@gmail.com
 description: "一只码狗"
 keyword: ""
@@ -76,7 +76,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/love-dog.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/love-dog.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
